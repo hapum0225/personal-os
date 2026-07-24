@@ -16,6 +16,11 @@
 5. **출력·부수효과** — "무엇을 만들고 무엇을 바꾸나요? (파일 생성/수정, 알림 등)"
 6. **외부 의존** — "API 키나 외부 서비스가 필요한가요?"
 
+## 만들기 전 · 참고 사례 논의 + 유형
+
+- 결과물을 만들기 전에 [`../references/reference-borrowing.md`](../references/reference-borrowing.md)에 따라 **"참고 사례를 찾아볼까요?"를 먼저 묻는다**(물어본 뒤 검색·토큰 상한·출처 기록).
+- 이 부품의 **유형**([`../references/os-types.md`](../references/os-types.md): 개인 / 삶 / 업무 › 세부)을 확인하고, `README.md` 상단에 배지로 남긴다.
+
 ## 산출물 골격 (단일 출처)
 
 `<output_dir>/<plugin-slug>/`에 **유효한 플러그인 디렉터리**로 만든다. 고른 요소만 생성한다.

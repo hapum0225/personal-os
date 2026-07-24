@@ -30,20 +30,20 @@ skill_version: 1.0.0
 status: in-progress        # in-progress | done
 last_completed_step: 2     # 완료 확정된 마지막 Step
 active_step: 3             # 지금 진행 중인 Step
-pending_question: "이상향 — 90% 자동화되면 아침 책상 모습"
+pending_question: "OS Core — 90% 자동화되면 아침 책상 모습"
 output_dir: ./os-output/2026-07-24-content-os
 started_at: 2026-07-24T21:05:00+09:00   # timezone 포함 ISO 8601
 updated_at: 2026-07-24T21:20:00+09:00
 ---
 
-## Step 1 · 풍경 [완료]
+## Step 1 · 생활 환경 [완료]
 - 답변 요약: ...
 - 확정 가설: ...
 
-## Step 2 · 통점 [완료]
+## Step 2 · 반복 소모 [완료]
 - 답변 요약: ...
 
-## Step 3 · 이상향 [진행 중]
+## Step 3 · OS Core [진행 중]
 - 지금까지 확정된 답변: ...
 ```
 
