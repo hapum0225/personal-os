@@ -1,0 +1,17 @@
+# 인터뷰 실행 중 생성되는 산출물·상태 파일 (사용자 업무 정보가 담김 — 커밋 금지)
+os-output/
+*.os-interview-state.md
+.os-interview-state.md
+
+# 평가 실행 로그 중 개인정보/절대경로가 담긴 원본 (정제본만 커밋)
+evals/results/*.raw.md
+evals/results/*.local.*
+
+# OS·에디터 부산물
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/

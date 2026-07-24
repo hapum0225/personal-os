@@ -1,0 +1,21 @@
+{
+  "name": "personal-os",
+  "version": "1.0.0",
+  "description": "개인 워크플로우·반복 업무를 자동화하는 '나만의 OS'를 6단계 인터뷰로 설계하고, 첫 부품 1개를 실제 산출물(스킬/플러그인/PRD)로 만들어 준다.",
+  "author": {
+    "name": "hapum0225",
+    "url": "https://github.com/hapum0225"
+  },
+  "homepage": "https://github.com/hapum0225/personal-os",
+  "repository": "https://github.com/hapum0225/personal-os",
+  "license": "MIT",
+  "keywords": [
+    "interview",
+    "personal-os",
+    "workflow",
+    "automation",
+    "skill-builder",
+    "productivity",
+    "onboarding"
+  ]
+}

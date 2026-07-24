@@ -1,0 +1,17 @@
+{
+  "name": "personal-os",
+  "owner": {
+    "name": "hapum0225",
+    "url": "https://github.com/hapum0225"
+  },
+  "metadata": {
+    "description": "개인 워크플로우를 자동화하는 '나만의 OS'를 인터뷰로 설계하는 스킬 마켓플레이스"
+  },
+  "plugins": [
+    {
+      "name": "personal-os",
+      "source": "./plugins/personal-os",
+      "description": "6단계 인터뷰로 개인 OS를 설계하고 첫 부품 1개를 스킬/플러그인/PRD 산출물로 만들어 준다."
+    }
+  ]
+}
