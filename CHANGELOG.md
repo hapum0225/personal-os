@@ -7,7 +7,7 @@
 형식은 [Keep a Changelog](https://keepachangelog.com/ko/1.1.0/)을,
 버전 규칙은 [유의적 버전(SemVer)](https://semver.org/lang/ko/)을 따릅니다.
 
-## [1.0.0] - 미공개 (준비 중)
+## [1.0.0] - 2026-07-25
 
 첫 공개 버전. `selfishclub/os-interview-skill`(MIT, commit `8d08c4e`)의 구조에서 출발해 재설계·확장했습니다.
 자세한 저작권 관계는 [NOTICE.md](./NOTICE.md) 참고.
